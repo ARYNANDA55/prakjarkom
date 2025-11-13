@@ -1,6 +1,6 @@
 # Praktikum Jaringan Komputer
 
-Repo ini berisi file hasil percobaan praktek jaringan komputer.
+Repo ini berisi file hasil percobaan praktek jaringan komputer TA 3.
 
 🎥 **Video YouTube:**
-[Klik di sini untuk menonton](https://youtu.be/rZPzddqn8NM)
+https://youtu.be/1MFwIz30KKA
